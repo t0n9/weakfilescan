@@ -164,3 +164,5 @@ python setup.py install
 yum install python-devel libxml2-devel libxslt-devel
 pip install lxml beautifulsoup4
 ```
+
+http://zone.wooyun.org/content/19523
